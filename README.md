@@ -41,8 +41,8 @@ Smart Learning Tracker/
 ## 🚀 Setup & Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Mohamed-Ros/smart-learning-tracker.git
-   cd "smart-learning-tracker"
+   git clone https://github.com/Mohamed-Ros/Smart-Learning-Tracker.git
+   cd smart-learning-tracker
    ```
 
 2. **Create a virtual environment (Recommended):**
