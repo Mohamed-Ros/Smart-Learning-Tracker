@@ -1,0 +1,751 @@
+student_id,course_id,lecture_id,lesson_level,next_action
+101,Math101,Lec1,medium,practice_additional
+101,Math101,Lec2,medium,practice_additional
+101,Math101,Lec3,weak,watch_video + practice_easy
+101,Math101,Lec4,medium,practice_additional
+101,Math101,Lec5,medium,practice_additional
+101,Physics101,Lec1,weak,watch_video + practice_easy
+101,Physics101,Lec2,medium,practice_additional
+101,Physics101,Lec3,weak,watch_video + practice_easy
+101,Physics101,Lec4,weak,watch_video + practice_easy
+101,Physics101,Lec5,weak,watch_video + practice_easy
+101,Chem101,Lec1,weak,watch_video + practice_easy
+101,Chem101,Lec2,weak,watch_video + practice_easy
+101,Chem101,Lec3,weak,watch_video + practice_easy
+101,Chem101,Lec4,weak,watch_video + practice_easy
+101,Chem101,Lec5,medium,practice_additional
+102,Math101,Lec1,weak,watch_video + practice_easy
+102,Math101,Lec2,mastered,next_lecture / advanced_content
+102,Math101,Lec3,weak,watch_video + practice_easy
+102,Math101,Lec4,weak,watch_video + practice_easy
+102,Math101,Lec5,weak,watch_video + practice_easy
+102,Physics101,Lec1,weak,watch_video + practice_easy
+102,Physics101,Lec2,weak,watch_video + practice_easy
+102,Physics101,Lec3,weak,watch_video + practice_easy
+102,Physics101,Lec4,medium,practice_additional
+102,Physics101,Lec5,weak,watch_video + practice_easy
+102,Chem101,Lec1,weak,watch_video + practice_easy
+102,Chem101,Lec2,weak,watch_video + practice_easy
+102,Chem101,Lec3,mastered,next_lecture / advanced_content
+102,Chem101,Lec4,weak,watch_video + practice_easy
+102,Chem101,Lec5,weak,watch_video + practice_easy
+103,Math101,Lec1,medium,practice_additional
+103,Math101,Lec2,weak,watch_video + practice_easy
+103,Math101,Lec3,weak,watch_video + practice_easy
+103,Math101,Lec4,weak,watch_video + practice_easy
+103,Math101,Lec5,medium,practice_additional
+103,Physics101,Lec1,weak,watch_video + practice_easy
+103,Physics101,Lec2,weak,watch_video + practice_easy
+103,Physics101,Lec3,weak,watch_video + practice_easy
+103,Physics101,Lec4,mastered,next_lecture / advanced_content
+103,Physics101,Lec5,medium,practice_additional
+103,Chem101,Lec1,weak,watch_video + practice_easy
+103,Chem101,Lec2,mastered,next_lecture / advanced_content
+103,Chem101,Lec3,weak,watch_video + practice_easy
+103,Chem101,Lec4,weak,watch_video + practice_easy
+103,Chem101,Lec5,weak,watch_video + practice_easy
+104,Math101,Lec1,weak,watch_video + practice_easy
+104,Math101,Lec2,mastered,next_lecture / advanced_content
+104,Math101,Lec3,weak,watch_video + practice_easy
+104,Math101,Lec4,weak,watch_video + practice_easy
+104,Math101,Lec5,weak,watch_video + practice_easy
+104,Physics101,Lec1,weak,watch_video + practice_easy
+104,Physics101,Lec2,medium,practice_additional
+104,Physics101,Lec3,mastered,next_lecture / advanced_content
+104,Physics101,Lec4,weak,watch_video + practice_easy
+104,Physics101,Lec5,mastered,next_lecture / advanced_content
+104,Chem101,Lec1,weak,watch_video + practice_easy
+104,Chem101,Lec2,medium,practice_additional
+104,Chem101,Lec3,mastered,next_lecture / advanced_content
+104,Chem101,Lec4,weak,watch_video + practice_easy
+104,Chem101,Lec5,weak,watch_video + practice_easy
+105,Math101,Lec1,weak,watch_video + practice_easy
+105,Math101,Lec2,weak,watch_video + practice_easy
+105,Math101,Lec3,mastered,next_lecture / advanced_content
+105,Math101,Lec4,weak,watch_video + practice_easy
+105,Math101,Lec5,weak,watch_video + practice_easy
+105,Physics101,Lec1,weak,watch_video + practice_easy
+105,Physics101,Lec2,weak,watch_video + practice_easy
+105,Physics101,Lec3,weak,watch_video + practice_easy
+105,Physics101,Lec4,weak,watch_video + practice_easy
+105,Physics101,Lec5,weak,watch_video + practice_easy
+105,Chem101,Lec1,medium,practice_additional
+105,Chem101,Lec2,weak,watch_video + practice_easy
+105,Chem101,Lec3,medium,practice_additional
+105,Chem101,Lec4,mastered,next_lecture / advanced_content
+105,Chem101,Lec5,medium,practice_additional
+106,Math101,Lec1,mastered,next_lecture / advanced_content
+106,Math101,Lec2,weak,watch_video + practice_easy
+106,Math101,Lec3,weak,watch_video + practice_easy
+106,Math101,Lec4,mastered,next_lecture / advanced_content
+106,Math101,Lec5,mastered,next_lecture / advanced_content
+106,Physics101,Lec1,weak,watch_video + practice_easy
+106,Physics101,Lec2,medium,practice_additional
+106,Physics101,Lec3,weak,watch_video + practice_easy
+106,Physics101,Lec4,weak,watch_video + practice_easy
+106,Physics101,Lec5,weak,watch_video + practice_easy
+106,Chem101,Lec1,mastered,next_lecture / advanced_content
+106,Chem101,Lec2,weak,watch_video + practice_easy
+106,Chem101,Lec3,weak,watch_video + practice_easy
+106,Chem101,Lec4,weak,watch_video + practice_easy
+106,Chem101,Lec5,weak,watch_video + practice_easy
+107,Math101,Lec1,weak,watch_video + practice_easy
+107,Math101,Lec2,medium,practice_additional
+107,Math101,Lec3,mastered,next_lecture / advanced_content
+107,Math101,Lec4,medium,practice_additional
+107,Math101,Lec5,weak,watch_video + practice_easy
+107,Physics101,Lec1,weak,watch_video + practice_easy
+107,Physics101,Lec2,medium,practice_additional
+107,Physics101,Lec3,weak,watch_video + practice_easy
+107,Physics101,Lec4,medium,practice_additional
+107,Physics101,Lec5,mastered,next_lecture / advanced_content
+107,Chem101,Lec1,weak,watch_video + practice_easy
+107,Chem101,Lec2,medium,practice_additional
+107,Chem101,Lec3,medium,practice_additional
+107,Chem101,Lec4,medium,practice_additional
+107,Chem101,Lec5,weak,watch_video + practice_easy
+108,Math101,Lec1,mastered,next_lecture / advanced_content
+108,Math101,Lec2,weak,watch_video + practice_easy
+108,Math101,Lec3,mastered,next_lecture / advanced_content
+108,Math101,Lec4,mastered,next_lecture / advanced_content
+108,Math101,Lec5,medium,practice_additional
+108,Physics101,Lec1,weak,watch_video + practice_easy
+108,Physics101,Lec2,weak,watch_video + practice_easy
+108,Physics101,Lec3,medium,practice_additional
+108,Physics101,Lec4,weak,watch_video + practice_easy
+108,Physics101,Lec5,medium,practice_additional
+108,Chem101,Lec1,medium,practice_additional
+108,Chem101,Lec2,weak,watch_video + practice_easy
+108,Chem101,Lec3,weak,watch_video + practice_easy
+108,Chem101,Lec4,weak,watch_video + practice_easy
+108,Chem101,Lec5,weak,watch_video + practice_easy
+109,Math101,Lec1,weak,watch_video + practice_easy
+109,Math101,Lec2,weak,watch_video + practice_easy
+109,Math101,Lec3,weak,watch_video + practice_easy
+109,Math101,Lec4,weak,watch_video + practice_easy
+109,Math101,Lec5,medium,practice_additional
+109,Physics101,Lec1,weak,watch_video + practice_easy
+109,Physics101,Lec2,medium,practice_additional
+109,Physics101,Lec3,mastered,next_lecture / advanced_content
+109,Physics101,Lec4,weak,watch_video + practice_easy
+109,Physics101,Lec5,weak,watch_video + practice_easy
+109,Chem101,Lec1,weak,watch_video + practice_easy
+109,Chem101,Lec2,weak,watch_video + practice_easy
+109,Chem101,Lec3,weak,watch_video + practice_easy
+109,Chem101,Lec4,weak,watch_video + practice_easy
+109,Chem101,Lec5,mastered,next_lecture / advanced_content
+110,Math101,Lec1,weak,watch_video + practice_easy
+110,Math101,Lec2,weak,watch_video + practice_easy
+110,Math101,Lec3,medium,practice_additional
+110,Math101,Lec4,medium,practice_additional
+110,Math101,Lec5,mastered,next_lecture / advanced_content
+110,Physics101,Lec1,medium,practice_additional
+110,Physics101,Lec2,weak,watch_video + practice_easy
+110,Physics101,Lec3,medium,practice_additional
+110,Physics101,Lec4,weak,watch_video + practice_easy
+110,Physics101,Lec5,mastered,next_lecture / advanced_content
+110,Chem101,Lec1,medium,practice_additional
+110,Chem101,Lec2,weak,watch_video + practice_easy
+110,Chem101,Lec3,weak,watch_video + practice_easy
+110,Chem101,Lec4,weak,watch_video + practice_easy
+110,Chem101,Lec5,mastered,next_lecture / advanced_content
+111,Math101,Lec1,weak,watch_video + practice_easy
+111,Math101,Lec2,weak,watch_video + practice_easy
+111,Math101,Lec3,weak,watch_video + practice_easy
+111,Math101,Lec4,mastered,next_lecture / advanced_content
+111,Math101,Lec5,weak,watch_video + practice_easy
+111,Physics101,Lec1,weak,watch_video + practice_easy
+111,Physics101,Lec2,weak,watch_video + practice_easy
+111,Physics101,Lec3,weak,watch_video + practice_easy
+111,Physics101,Lec4,weak,watch_video + practice_easy
+111,Physics101,Lec5,weak,watch_video + practice_easy
+111,Chem101,Lec1,weak,watch_video + practice_easy
+111,Chem101,Lec2,medium,practice_additional
+111,Chem101,Lec3,weak,watch_video + practice_easy
+111,Chem101,Lec4,weak,watch_video + practice_easy
+111,Chem101,Lec5,weak,watch_video + practice_easy
+112,Math101,Lec1,mastered,next_lecture / advanced_content
+112,Math101,Lec2,weak,watch_video + practice_easy
+112,Math101,Lec3,weak,watch_video + practice_easy
+112,Math101,Lec4,weak,watch_video + practice_easy
+112,Math101,Lec5,weak,watch_video + practice_easy
+112,Physics101,Lec1,medium,practice_additional
+112,Physics101,Lec2,medium,practice_additional
+112,Physics101,Lec3,weak,watch_video + practice_easy
+112,Physics101,Lec4,mastered,next_lecture / advanced_content
+112,Physics101,Lec5,weak,watch_video + practice_easy
+112,Chem101,Lec1,weak,watch_video + practice_easy
+112,Chem101,Lec2,mastered,next_lecture / advanced_content
+112,Chem101,Lec3,weak,watch_video + practice_easy
+112,Chem101,Lec4,weak,watch_video + practice_easy
+112,Chem101,Lec5,medium,practice_additional
+113,Math101,Lec1,medium,practice_additional
+113,Math101,Lec2,mastered,next_lecture / advanced_content
+113,Math101,Lec3,medium,practice_additional
+113,Math101,Lec4,medium,practice_additional
+113,Math101,Lec5,weak,watch_video + practice_easy
+113,Physics101,Lec1,medium,practice_additional
+113,Physics101,Lec2,mastered,next_lecture / advanced_content
+113,Physics101,Lec3,weak,watch_video + practice_easy
+113,Physics101,Lec4,medium,practice_additional
+113,Physics101,Lec5,weak,watch_video + practice_easy
+113,Chem101,Lec1,mastered,next_lecture / advanced_content
+113,Chem101,Lec2,weak,watch_video + practice_easy
+113,Chem101,Lec3,medium,practice_additional
+113,Chem101,Lec4,weak,watch_video + practice_easy
+113,Chem101,Lec5,mastered,next_lecture / advanced_content
+114,Math101,Lec1,weak,watch_video + practice_easy
+114,Math101,Lec2,mastered,next_lecture / advanced_content
+114,Math101,Lec3,medium,practice_additional
+114,Math101,Lec4,medium,practice_additional
+114,Math101,Lec5,weak,watch_video + practice_easy
+114,Physics101,Lec1,weak,watch_video + practice_easy
+114,Physics101,Lec2,mastered,next_lecture / advanced_content
+114,Physics101,Lec3,weak,watch_video + practice_easy
+114,Physics101,Lec4,medium,practice_additional
+114,Physics101,Lec5,weak,watch_video + practice_easy
+114,Chem101,Lec1,medium,practice_additional
+114,Chem101,Lec2,mastered,next_lecture / advanced_content
+114,Chem101,Lec3,medium,practice_additional
+114,Chem101,Lec4,weak,watch_video + practice_easy
+114,Chem101,Lec5,weak,watch_video + practice_easy
+115,Math101,Lec1,weak,watch_video + practice_easy
+115,Math101,Lec2,weak,watch_video + practice_easy
+115,Math101,Lec3,weak,watch_video + practice_easy
+115,Math101,Lec4,weak,watch_video + practice_easy
+115,Math101,Lec5,weak,watch_video + practice_easy
+115,Physics101,Lec1,medium,practice_additional
+115,Physics101,Lec2,medium,practice_additional
+115,Physics101,Lec3,weak,watch_video + practice_easy
+115,Physics101,Lec4,weak,watch_video + practice_easy
+115,Physics101,Lec5,weak,watch_video + practice_easy
+115,Chem101,Lec1,weak,watch_video + practice_easy
+115,Chem101,Lec2,mastered,next_lecture / advanced_content
+115,Chem101,Lec3,weak,watch_video + practice_easy
+115,Chem101,Lec4,weak,watch_video + practice_easy
+115,Chem101,Lec5,weak,watch_video + practice_easy
+116,Math101,Lec1,weak,watch_video + practice_easy
+116,Math101,Lec2,weak,watch_video + practice_easy
+116,Math101,Lec3,weak,watch_video + practice_easy
+116,Math101,Lec4,mastered,next_lecture / advanced_content
+116,Math101,Lec5,medium,practice_additional
+116,Physics101,Lec1,weak,watch_video + practice_easy
+116,Physics101,Lec2,weak,watch_video + practice_easy
+116,Physics101,Lec3,weak,watch_video + practice_easy
+116,Physics101,Lec4,weak,watch_video + practice_easy
+116,Physics101,Lec5,weak,watch_video + practice_easy
+116,Chem101,Lec1,weak,watch_video + practice_easy
+116,Chem101,Lec2,weak,watch_video + practice_easy
+116,Chem101,Lec3,weak,watch_video + practice_easy
+116,Chem101,Lec4,weak,watch_video + practice_easy
+116,Chem101,Lec5,weak,watch_video + practice_easy
+117,Math101,Lec1,weak,watch_video + practice_easy
+117,Math101,Lec2,weak,watch_video + practice_easy
+117,Math101,Lec3,weak,watch_video + practice_easy
+117,Math101,Lec4,weak,watch_video + practice_easy
+117,Math101,Lec5,medium,practice_additional
+117,Physics101,Lec1,weak,watch_video + practice_easy
+117,Physics101,Lec2,weak,watch_video + practice_easy
+117,Physics101,Lec3,weak,watch_video + practice_easy
+117,Physics101,Lec4,mastered,next_lecture / advanced_content
+117,Physics101,Lec5,weak,watch_video + practice_easy
+117,Chem101,Lec1,weak,watch_video + practice_easy
+117,Chem101,Lec2,weak,watch_video + practice_easy
+117,Chem101,Lec3,weak,watch_video + practice_easy
+117,Chem101,Lec4,weak,watch_video + practice_easy
+117,Chem101,Lec5,medium,practice_additional
+118,Math101,Lec1,weak,watch_video + practice_easy
+118,Math101,Lec2,mastered,next_lecture / advanced_content
+118,Math101,Lec3,weak,watch_video + practice_easy
+118,Math101,Lec4,medium,practice_additional
+118,Math101,Lec5,weak,watch_video + practice_easy
+118,Physics101,Lec1,weak,watch_video + practice_easy
+118,Physics101,Lec2,weak,watch_video + practice_easy
+118,Physics101,Lec3,weak,watch_video + practice_easy
+118,Physics101,Lec4,mastered,next_lecture / advanced_content
+118,Physics101,Lec5,weak,watch_video + practice_easy
+118,Chem101,Lec1,weak,watch_video + practice_easy
+118,Chem101,Lec2,medium,practice_additional
+118,Chem101,Lec3,weak,watch_video + practice_easy
+118,Chem101,Lec4,weak,watch_video + practice_easy
+118,Chem101,Lec5,weak,watch_video + practice_easy
+119,Math101,Lec1,weak,watch_video + practice_easy
+119,Math101,Lec2,weak,watch_video + practice_easy
+119,Math101,Lec3,medium,practice_additional
+119,Math101,Lec4,weak,watch_video + practice_easy
+119,Math101,Lec5,weak,watch_video + practice_easy
+119,Physics101,Lec1,weak,watch_video + practice_easy
+119,Physics101,Lec2,weak,watch_video + practice_easy
+119,Physics101,Lec3,weak,watch_video + practice_easy
+119,Physics101,Lec4,mastered,next_lecture / advanced_content
+119,Physics101,Lec5,weak,watch_video + practice_easy
+119,Chem101,Lec1,weak,watch_video + practice_easy
+119,Chem101,Lec2,medium,practice_additional
+119,Chem101,Lec3,weak,watch_video + practice_easy
+119,Chem101,Lec4,weak,watch_video + practice_easy
+119,Chem101,Lec5,medium,practice_additional
+120,Math101,Lec1,weak,watch_video + practice_easy
+120,Math101,Lec2,weak,watch_video + practice_easy
+120,Math101,Lec3,mastered,next_lecture / advanced_content
+120,Math101,Lec4,weak,watch_video + practice_easy
+120,Math101,Lec5,weak,watch_video + practice_easy
+120,Physics101,Lec1,medium,practice_additional
+120,Physics101,Lec2,weak,watch_video + practice_easy
+120,Physics101,Lec3,medium,practice_additional
+120,Physics101,Lec4,weak,watch_video + practice_easy
+120,Physics101,Lec5,medium,practice_additional
+120,Chem101,Lec1,weak,watch_video + practice_easy
+120,Chem101,Lec2,weak,watch_video + practice_easy
+120,Chem101,Lec3,medium,practice_additional
+120,Chem101,Lec4,medium,practice_additional
+120,Chem101,Lec5,medium,practice_additional
+121,Math101,Lec1,weak,watch_video + practice_easy
+121,Math101,Lec2,weak,watch_video + practice_easy
+121,Math101,Lec3,weak,watch_video + practice_easy
+121,Math101,Lec4,mastered,next_lecture / advanced_content
+121,Math101,Lec5,weak,watch_video + practice_easy
+121,Physics101,Lec1,weak,watch_video + practice_easy
+121,Physics101,Lec2,medium,practice_additional
+121,Physics101,Lec3,medium,practice_additional
+121,Physics101,Lec4,weak,watch_video + practice_easy
+121,Physics101,Lec5,weak,watch_video + practice_easy
+121,Chem101,Lec1,mastered,next_lecture / advanced_content
+121,Chem101,Lec2,weak,watch_video + practice_easy
+121,Chem101,Lec3,weak,watch_video + practice_easy
+121,Chem101,Lec4,weak,watch_video + practice_easy
+121,Chem101,Lec5,weak,watch_video + practice_easy
+122,Math101,Lec1,weak,watch_video + practice_easy
+122,Math101,Lec2,weak,watch_video + practice_easy
+122,Math101,Lec3,weak,watch_video + practice_easy
+122,Math101,Lec4,medium,practice_additional
+122,Math101,Lec5,weak,watch_video + practice_easy
+122,Physics101,Lec1,weak,watch_video + practice_easy
+122,Physics101,Lec2,weak,watch_video + practice_easy
+122,Physics101,Lec3,mastered,next_lecture / advanced_content
+122,Physics101,Lec4,weak,watch_video + practice_easy
+122,Physics101,Lec5,weak,watch_video + practice_easy
+122,Chem101,Lec1,medium,practice_additional
+122,Chem101,Lec2,weak,watch_video + practice_easy
+122,Chem101,Lec3,weak,watch_video + practice_easy
+122,Chem101,Lec4,medium,practice_additional
+122,Chem101,Lec5,weak,watch_video + practice_easy
+123,Math101,Lec1,weak,watch_video + practice_easy
+123,Math101,Lec2,weak,watch_video + practice_easy
+123,Math101,Lec3,mastered,next_lecture / advanced_content
+123,Math101,Lec4,mastered,next_lecture / advanced_content
+123,Math101,Lec5,weak,watch_video + practice_easy
+123,Physics101,Lec1,medium,practice_additional
+123,Physics101,Lec2,medium,practice_additional
+123,Physics101,Lec3,medium,practice_additional
+123,Physics101,Lec4,weak,watch_video + practice_easy
+123,Physics101,Lec5,weak,watch_video + practice_easy
+123,Chem101,Lec1,weak,watch_video + practice_easy
+123,Chem101,Lec2,weak,watch_video + practice_easy
+123,Chem101,Lec3,mastered,next_lecture / advanced_content
+123,Chem101,Lec4,weak,watch_video + practice_easy
+123,Chem101,Lec5,weak,watch_video + practice_easy
+124,Math101,Lec1,mastered,next_lecture / advanced_content
+124,Math101,Lec2,weak,watch_video + practice_easy
+124,Math101,Lec3,weak,watch_video + practice_easy
+124,Math101,Lec4,weak,watch_video + practice_easy
+124,Math101,Lec5,mastered,next_lecture / advanced_content
+124,Physics101,Lec1,medium,practice_additional
+124,Physics101,Lec2,medium,practice_additional
+124,Physics101,Lec3,weak,watch_video + practice_easy
+124,Physics101,Lec4,weak,watch_video + practice_easy
+124,Physics101,Lec5,weak,watch_video + practice_easy
+124,Chem101,Lec1,weak,watch_video + practice_easy
+124,Chem101,Lec2,mastered,next_lecture / advanced_content
+124,Chem101,Lec3,medium,practice_additional
+124,Chem101,Lec4,weak,watch_video + practice_easy
+124,Chem101,Lec5,weak,watch_video + practice_easy
+125,Math101,Lec1,weak,watch_video + practice_easy
+125,Math101,Lec2,weak,watch_video + practice_easy
+125,Math101,Lec3,mastered,next_lecture / advanced_content
+125,Math101,Lec4,mastered,next_lecture / advanced_content
+125,Math101,Lec5,weak,watch_video + practice_easy
+125,Physics101,Lec1,weak,watch_video + practice_easy
+125,Physics101,Lec2,weak,watch_video + practice_easy
+125,Physics101,Lec3,mastered,next_lecture / advanced_content
+125,Physics101,Lec4,mastered,next_lecture / advanced_content
+125,Physics101,Lec5,weak,watch_video + practice_easy
+125,Chem101,Lec1,medium,practice_additional
+125,Chem101,Lec2,weak,watch_video + practice_easy
+125,Chem101,Lec3,weak,watch_video + practice_easy
+125,Chem101,Lec4,mastered,next_lecture / advanced_content
+125,Chem101,Lec5,weak,watch_video + practice_easy
+126,Math101,Lec1,medium,practice_additional
+126,Math101,Lec2,weak,watch_video + practice_easy
+126,Math101,Lec3,weak,watch_video + practice_easy
+126,Math101,Lec4,weak,watch_video + practice_easy
+126,Math101,Lec5,medium,practice_additional
+126,Physics101,Lec1,weak,watch_video + practice_easy
+126,Physics101,Lec2,weak,watch_video + practice_easy
+126,Physics101,Lec3,medium,practice_additional
+126,Physics101,Lec4,medium,practice_additional
+126,Physics101,Lec5,weak,watch_video + practice_easy
+126,Chem101,Lec1,medium,practice_additional
+126,Chem101,Lec2,weak,watch_video + practice_easy
+126,Chem101,Lec3,medium,practice_additional
+126,Chem101,Lec4,weak,watch_video + practice_easy
+126,Chem101,Lec5,weak,watch_video + practice_easy
+127,Math101,Lec1,weak,watch_video + practice_easy
+127,Math101,Lec2,weak,watch_video + practice_easy
+127,Math101,Lec3,medium,practice_additional
+127,Math101,Lec4,weak,watch_video + practice_easy
+127,Math101,Lec5,weak,watch_video + practice_easy
+127,Physics101,Lec1,medium,practice_additional
+127,Physics101,Lec2,medium,practice_additional
+127,Physics101,Lec3,weak,watch_video + practice_easy
+127,Physics101,Lec4,medium,practice_additional
+127,Physics101,Lec5,weak,watch_video + practice_easy
+127,Chem101,Lec1,weak,watch_video + practice_easy
+127,Chem101,Lec2,mastered,next_lecture / advanced_content
+127,Chem101,Lec3,medium,practice_additional
+127,Chem101,Lec4,weak,watch_video + practice_easy
+127,Chem101,Lec5,weak,watch_video + practice_easy
+128,Math101,Lec1,medium,practice_additional
+128,Math101,Lec2,medium,practice_additional
+128,Math101,Lec3,weak,watch_video + practice_easy
+128,Math101,Lec4,weak,watch_video + practice_easy
+128,Math101,Lec5,weak,watch_video + practice_easy
+128,Physics101,Lec1,weak,watch_video + practice_easy
+128,Physics101,Lec2,weak,watch_video + practice_easy
+128,Physics101,Lec3,medium,practice_additional
+128,Physics101,Lec4,weak,watch_video + practice_easy
+128,Physics101,Lec5,weak,watch_video + practice_easy
+128,Chem101,Lec1,weak,watch_video + practice_easy
+128,Chem101,Lec2,medium,practice_additional
+128,Chem101,Lec3,weak,watch_video + practice_easy
+128,Chem101,Lec4,mastered,next_lecture / advanced_content
+128,Chem101,Lec5,weak,watch_video + practice_easy
+129,Math101,Lec1,medium,practice_additional
+129,Math101,Lec2,mastered,next_lecture / advanced_content
+129,Math101,Lec3,medium,practice_additional
+129,Math101,Lec4,weak,watch_video + practice_easy
+129,Math101,Lec5,weak,watch_video + practice_easy
+129,Physics101,Lec1,weak,watch_video + practice_easy
+129,Physics101,Lec2,medium,practice_additional
+129,Physics101,Lec3,weak,watch_video + practice_easy
+129,Physics101,Lec4,weak,watch_video + practice_easy
+129,Physics101,Lec5,weak,watch_video + practice_easy
+129,Chem101,Lec1,weak,watch_video + practice_easy
+129,Chem101,Lec2,weak,watch_video + practice_easy
+129,Chem101,Lec3,weak,watch_video + practice_easy
+129,Chem101,Lec4,weak,watch_video + practice_easy
+129,Chem101,Lec5,weak,watch_video + practice_easy
+130,Math101,Lec1,weak,watch_video + practice_easy
+130,Math101,Lec2,weak,watch_video + practice_easy
+130,Math101,Lec3,medium,practice_additional
+130,Math101,Lec4,weak,watch_video + practice_easy
+130,Math101,Lec5,weak,watch_video + practice_easy
+130,Physics101,Lec1,weak,watch_video + practice_easy
+130,Physics101,Lec2,weak,watch_video + practice_easy
+130,Physics101,Lec3,weak,watch_video + practice_easy
+130,Physics101,Lec4,weak,watch_video + practice_easy
+130,Physics101,Lec5,weak,watch_video + practice_easy
+130,Chem101,Lec1,medium,practice_additional
+130,Chem101,Lec2,weak,watch_video + practice_easy
+130,Chem101,Lec3,weak,watch_video + practice_easy
+130,Chem101,Lec4,weak,watch_video + practice_easy
+130,Chem101,Lec5,weak,watch_video + practice_easy
+131,Math101,Lec1,medium,practice_additional
+131,Math101,Lec2,medium,practice_additional
+131,Math101,Lec3,mastered,next_lecture / advanced_content
+131,Math101,Lec4,weak,watch_video + practice_easy
+131,Math101,Lec5,weak,watch_video + practice_easy
+131,Physics101,Lec1,medium,practice_additional
+131,Physics101,Lec2,weak,watch_video + practice_easy
+131,Physics101,Lec3,weak,watch_video + practice_easy
+131,Physics101,Lec4,medium,practice_additional
+131,Physics101,Lec5,mastered,next_lecture / advanced_content
+131,Chem101,Lec1,weak,watch_video + practice_easy
+131,Chem101,Lec2,weak,watch_video + practice_easy
+131,Chem101,Lec3,medium,practice_additional
+131,Chem101,Lec4,weak,watch_video + practice_easy
+131,Chem101,Lec5,weak,watch_video + practice_easy
+132,Math101,Lec1,mastered,next_lecture / advanced_content
+132,Math101,Lec2,weak,watch_video + practice_easy
+132,Math101,Lec3,medium,practice_additional
+132,Math101,Lec4,weak,watch_video + practice_easy
+132,Math101,Lec5,medium,practice_additional
+132,Physics101,Lec1,weak,watch_video + practice_easy
+132,Physics101,Lec2,weak,watch_video + practice_easy
+132,Physics101,Lec3,weak,watch_video + practice_easy
+132,Physics101,Lec4,weak,watch_video + practice_easy
+132,Physics101,Lec5,medium,practice_additional
+132,Chem101,Lec1,mastered,next_lecture / advanced_content
+132,Chem101,Lec2,medium,practice_additional
+132,Chem101,Lec3,mastered,next_lecture / advanced_content
+132,Chem101,Lec4,weak,watch_video + practice_easy
+132,Chem101,Lec5,medium,practice_additional
+133,Math101,Lec1,weak,watch_video + practice_easy
+133,Math101,Lec2,medium,practice_additional
+133,Math101,Lec3,medium,practice_additional
+133,Math101,Lec4,medium,practice_additional
+133,Math101,Lec5,weak,watch_video + practice_easy
+133,Physics101,Lec1,weak,watch_video + practice_easy
+133,Physics101,Lec2,medium,practice_additional
+133,Physics101,Lec3,medium,practice_additional
+133,Physics101,Lec4,weak,watch_video + practice_easy
+133,Physics101,Lec5,medium,practice_additional
+133,Chem101,Lec1,weak,watch_video + practice_easy
+133,Chem101,Lec2,weak,watch_video + practice_easy
+133,Chem101,Lec3,weak,watch_video + practice_easy
+133,Chem101,Lec4,weak,watch_video + practice_easy
+133,Chem101,Lec5,weak,watch_video + practice_easy
+134,Math101,Lec1,weak,watch_video + practice_easy
+134,Math101,Lec2,mastered,next_lecture / advanced_content
+134,Math101,Lec3,mastered,next_lecture / advanced_content
+134,Math101,Lec4,medium,practice_additional
+134,Math101,Lec5,medium,practice_additional
+134,Physics101,Lec1,weak,watch_video + practice_easy
+134,Physics101,Lec2,weak,watch_video + practice_easy
+134,Physics101,Lec3,weak,watch_video + practice_easy
+134,Physics101,Lec4,medium,practice_additional
+134,Physics101,Lec5,weak,watch_video + practice_easy
+134,Chem101,Lec1,weak,watch_video + practice_easy
+134,Chem101,Lec2,medium,practice_additional
+134,Chem101,Lec3,weak,watch_video + practice_easy
+134,Chem101,Lec4,weak,watch_video + practice_easy
+134,Chem101,Lec5,weak,watch_video + practice_easy
+135,Math101,Lec1,medium,practice_additional
+135,Math101,Lec2,medium,practice_additional
+135,Math101,Lec3,weak,watch_video + practice_easy
+135,Math101,Lec4,weak,watch_video + practice_easy
+135,Math101,Lec5,weak,watch_video + practice_easy
+135,Physics101,Lec1,weak,watch_video + practice_easy
+135,Physics101,Lec2,medium,practice_additional
+135,Physics101,Lec3,weak,watch_video + practice_easy
+135,Physics101,Lec4,weak,watch_video + practice_easy
+135,Physics101,Lec5,weak,watch_video + practice_easy
+135,Chem101,Lec1,weak,watch_video + practice_easy
+135,Chem101,Lec2,weak,watch_video + practice_easy
+135,Chem101,Lec3,weak,watch_video + practice_easy
+135,Chem101,Lec4,weak,watch_video + practice_easy
+135,Chem101,Lec5,weak,watch_video + practice_easy
+136,Math101,Lec1,weak,watch_video + practice_easy
+136,Math101,Lec2,weak,watch_video + practice_easy
+136,Math101,Lec3,weak,watch_video + practice_easy
+136,Math101,Lec4,weak,watch_video + practice_easy
+136,Math101,Lec5,mastered,next_lecture / advanced_content
+136,Physics101,Lec1,weak,watch_video + practice_easy
+136,Physics101,Lec2,medium,practice_additional
+136,Physics101,Lec3,weak,watch_video + practice_easy
+136,Physics101,Lec4,mastered,next_lecture / advanced_content
+136,Physics101,Lec5,medium,practice_additional
+136,Chem101,Lec1,medium,practice_additional
+136,Chem101,Lec2,weak,watch_video + practice_easy
+136,Chem101,Lec3,weak,watch_video + practice_easy
+136,Chem101,Lec4,weak,watch_video + practice_easy
+136,Chem101,Lec5,medium,practice_additional
+137,Math101,Lec1,weak,watch_video + practice_easy
+137,Math101,Lec2,weak,watch_video + practice_easy
+137,Math101,Lec3,weak,watch_video + practice_easy
+137,Math101,Lec4,mastered,next_lecture / advanced_content
+137,Math101,Lec5,medium,practice_additional
+137,Physics101,Lec1,weak,watch_video + practice_easy
+137,Physics101,Lec2,weak,watch_video + practice_easy
+137,Physics101,Lec3,weak,watch_video + practice_easy
+137,Physics101,Lec4,weak,watch_video + practice_easy
+137,Physics101,Lec5,mastered,next_lecture / advanced_content
+137,Chem101,Lec1,weak,watch_video + practice_easy
+137,Chem101,Lec2,weak,watch_video + practice_easy
+137,Chem101,Lec3,weak,watch_video + practice_easy
+137,Chem101,Lec4,mastered,next_lecture / advanced_content
+137,Chem101,Lec5,weak,watch_video + practice_easy
+138,Math101,Lec1,medium,practice_additional
+138,Math101,Lec2,medium,practice_additional
+138,Math101,Lec3,medium,practice_additional
+138,Math101,Lec4,medium,practice_additional
+138,Math101,Lec5,weak,watch_video + practice_easy
+138,Physics101,Lec1,weak,watch_video + practice_easy
+138,Physics101,Lec2,mastered,next_lecture / advanced_content
+138,Physics101,Lec3,medium,practice_additional
+138,Physics101,Lec4,weak,watch_video + practice_easy
+138,Physics101,Lec5,weak,watch_video + practice_easy
+138,Chem101,Lec1,medium,practice_additional
+138,Chem101,Lec2,weak,watch_video + practice_easy
+138,Chem101,Lec3,weak,watch_video + practice_easy
+138,Chem101,Lec4,weak,watch_video + practice_easy
+138,Chem101,Lec5,medium,practice_additional
+139,Math101,Lec1,medium,practice_additional
+139,Math101,Lec2,weak,watch_video + practice_easy
+139,Math101,Lec3,weak,watch_video + practice_easy
+139,Math101,Lec4,weak,watch_video + practice_easy
+139,Math101,Lec5,weak,watch_video + practice_easy
+139,Physics101,Lec1,mastered,next_lecture / advanced_content
+139,Physics101,Lec2,weak,watch_video + practice_easy
+139,Physics101,Lec3,weak,watch_video + practice_easy
+139,Physics101,Lec4,mastered,next_lecture / advanced_content
+139,Physics101,Lec5,medium,practice_additional
+139,Chem101,Lec1,medium,practice_additional
+139,Chem101,Lec2,weak,watch_video + practice_easy
+139,Chem101,Lec3,weak,watch_video + practice_easy
+139,Chem101,Lec4,weak,watch_video + practice_easy
+139,Chem101,Lec5,weak,watch_video + practice_easy
+140,Math101,Lec1,weak,watch_video + practice_easy
+140,Math101,Lec2,weak,watch_video + practice_easy
+140,Math101,Lec3,weak,watch_video + practice_easy
+140,Math101,Lec4,weak,watch_video + practice_easy
+140,Math101,Lec5,medium,practice_additional
+140,Physics101,Lec1,weak,watch_video + practice_easy
+140,Physics101,Lec2,weak,watch_video + practice_easy
+140,Physics101,Lec3,medium,practice_additional
+140,Physics101,Lec4,weak,watch_video + practice_easy
+140,Physics101,Lec5,weak,watch_video + practice_easy
+140,Chem101,Lec1,weak,watch_video + practice_easy
+140,Chem101,Lec2,weak,watch_video + practice_easy
+140,Chem101,Lec3,weak,watch_video + practice_easy
+140,Chem101,Lec4,medium,practice_additional
+140,Chem101,Lec5,weak,watch_video + practice_easy
+141,Math101,Lec1,weak,watch_video + practice_easy
+141,Math101,Lec2,weak,watch_video + practice_easy
+141,Math101,Lec3,medium,practice_additional
+141,Math101,Lec4,medium,practice_additional
+141,Math101,Lec5,weak,watch_video + practice_easy
+141,Physics101,Lec1,medium,practice_additional
+141,Physics101,Lec2,weak,watch_video + practice_easy
+141,Physics101,Lec3,weak,watch_video + practice_easy
+141,Physics101,Lec4,medium,practice_additional
+141,Physics101,Lec5,weak,watch_video + practice_easy
+141,Chem101,Lec1,weak,watch_video + practice_easy
+141,Chem101,Lec2,weak,watch_video + practice_easy
+141,Chem101,Lec3,mastered,next_lecture / advanced_content
+141,Chem101,Lec4,mastered,next_lecture / advanced_content
+141,Chem101,Lec5,medium,practice_additional
+142,Math101,Lec1,medium,practice_additional
+142,Math101,Lec2,medium,practice_additional
+142,Math101,Lec3,weak,watch_video + practice_easy
+142,Math101,Lec4,medium,practice_additional
+142,Math101,Lec5,medium,practice_additional
+142,Physics101,Lec1,medium,practice_additional
+142,Physics101,Lec2,medium,practice_additional
+142,Physics101,Lec3,weak,watch_video + practice_easy
+142,Physics101,Lec4,weak,watch_video + practice_easy
+142,Physics101,Lec5,medium,practice_additional
+142,Chem101,Lec1,mastered,next_lecture / advanced_content
+142,Chem101,Lec2,weak,watch_video + practice_easy
+142,Chem101,Lec3,weak,watch_video + practice_easy
+142,Chem101,Lec4,weak,watch_video + practice_easy
+142,Chem101,Lec5,weak,watch_video + practice_easy
+143,Math101,Lec1,weak,watch_video + practice_easy
+143,Math101,Lec2,weak,watch_video + practice_easy
+143,Math101,Lec3,weak,watch_video + practice_easy
+143,Math101,Lec4,weak,watch_video + practice_easy
+143,Math101,Lec5,weak,watch_video + practice_easy
+143,Physics101,Lec1,weak,watch_video + practice_easy
+143,Physics101,Lec2,weak,watch_video + practice_easy
+143,Physics101,Lec3,weak,watch_video + practice_easy
+143,Physics101,Lec4,medium,practice_additional
+143,Physics101,Lec5,weak,watch_video + practice_easy
+143,Chem101,Lec1,medium,practice_additional
+143,Chem101,Lec2,mastered,next_lecture / advanced_content
+143,Chem101,Lec3,weak,watch_video + practice_easy
+143,Chem101,Lec4,weak,watch_video + practice_easy
+143,Chem101,Lec5,medium,practice_additional
+144,Math101,Lec1,weak,watch_video + practice_easy
+144,Math101,Lec2,weak,watch_video + practice_easy
+144,Math101,Lec3,medium,practice_additional
+144,Math101,Lec4,medium,practice_additional
+144,Math101,Lec5,medium,practice_additional
+144,Physics101,Lec1,weak,watch_video + practice_easy
+144,Physics101,Lec2,weak,watch_video + practice_easy
+144,Physics101,Lec3,weak,watch_video + practice_easy
+144,Physics101,Lec4,weak,watch_video + practice_easy
+144,Physics101,Lec5,weak,watch_video + practice_easy
+144,Chem101,Lec1,weak,watch_video + practice_easy
+144,Chem101,Lec2,medium,practice_additional
+144,Chem101,Lec3,weak,watch_video + practice_easy
+144,Chem101,Lec4,mastered,next_lecture / advanced_content
+144,Chem101,Lec5,weak,watch_video + practice_easy
+145,Math101,Lec1,weak,watch_video + practice_easy
+145,Math101,Lec2,weak,watch_video + practice_easy
+145,Math101,Lec3,weak,watch_video + practice_easy
+145,Math101,Lec4,weak,watch_video + practice_easy
+145,Math101,Lec5,weak,watch_video + practice_easy
+145,Physics101,Lec1,weak,watch_video + practice_easy
+145,Physics101,Lec2,weak,watch_video + practice_easy
+145,Physics101,Lec3,medium,practice_additional
+145,Physics101,Lec4,mastered,next_lecture / advanced_content
+145,Physics101,Lec5,mastered,next_lecture / advanced_content
+145,Chem101,Lec1,weak,watch_video + practice_easy
+145,Chem101,Lec2,weak,watch_video + practice_easy
+145,Chem101,Lec3,weak,watch_video + practice_easy
+145,Chem101,Lec4,mastered,next_lecture / advanced_content
+145,Chem101,Lec5,weak,watch_video + practice_easy
+146,Math101,Lec1,medium,practice_additional
+146,Math101,Lec2,mastered,next_lecture / advanced_content
+146,Math101,Lec3,weak,watch_video + practice_easy
+146,Math101,Lec4,weak,watch_video + practice_easy
+146,Math101,Lec5,medium,practice_additional
+146,Physics101,Lec1,mastered,next_lecture / advanced_content
+146,Physics101,Lec2,mastered,next_lecture / advanced_content
+146,Physics101,Lec3,medium,practice_additional
+146,Physics101,Lec4,weak,watch_video + practice_easy
+146,Physics101,Lec5,mastered,next_lecture / advanced_content
+146,Chem101,Lec1,weak,watch_video + practice_easy
+146,Chem101,Lec2,medium,practice_additional
+146,Chem101,Lec3,weak,watch_video + practice_easy
+146,Chem101,Lec4,weak,watch_video + practice_easy
+146,Chem101,Lec5,weak,watch_video + practice_easy
+147,Math101,Lec1,mastered,next_lecture / advanced_content
+147,Math101,Lec2,mastered,next_lecture / advanced_content
+147,Math101,Lec3,weak,watch_video + practice_easy
+147,Math101,Lec4,medium,practice_additional
+147,Math101,Lec5,medium,practice_additional
+147,Physics101,Lec1,mastered,next_lecture / advanced_content
+147,Physics101,Lec2,medium,practice_additional
+147,Physics101,Lec3,medium,practice_additional
+147,Physics101,Lec4,weak,watch_video + practice_easy
+147,Physics101,Lec5,weak,watch_video + practice_easy
+147,Chem101,Lec1,medium,practice_additional
+147,Chem101,Lec2,weak,watch_video + practice_easy
+147,Chem101,Lec3,weak,watch_video + practice_easy
+147,Chem101,Lec4,weak,watch_video + practice_easy
+147,Chem101,Lec5,medium,practice_additional
+148,Math101,Lec1,weak,watch_video + practice_easy
+148,Math101,Lec2,medium,practice_additional
+148,Math101,Lec3,medium,practice_additional
+148,Math101,Lec4,weak,watch_video + practice_easy
+148,Math101,Lec5,weak,watch_video + practice_easy
+148,Physics101,Lec1,weak,watch_video + practice_easy
+148,Physics101,Lec2,weak,watch_video + practice_easy
+148,Physics101,Lec3,weak,watch_video + practice_easy
+148,Physics101,Lec4,weak,watch_video + practice_easy
+148,Physics101,Lec5,weak,watch_video + practice_easy
+148,Chem101,Lec1,weak,watch_video + practice_easy
+148,Chem101,Lec2,medium,practice_additional
+148,Chem101,Lec3,mastered,next_lecture / advanced_content
+148,Chem101,Lec4,mastered,next_lecture / advanced_content
+148,Chem101,Lec5,medium,practice_additional
+149,Math101,Lec1,weak,watch_video + practice_easy
+149,Math101,Lec2,medium,practice_additional
+149,Math101,Lec3,medium,practice_additional
+149,Math101,Lec4,mastered,next_lecture / advanced_content
+149,Math101,Lec5,medium,practice_additional
+149,Physics101,Lec1,medium,practice_additional
+149,Physics101,Lec2,mastered,next_lecture / advanced_content
+149,Physics101,Lec3,weak,watch_video + practice_easy
+149,Physics101,Lec4,weak,watch_video + practice_easy
+149,Physics101,Lec5,weak,watch_video + practice_easy
+149,Chem101,Lec1,weak,watch_video + practice_easy
+149,Chem101,Lec2,mastered,next_lecture / advanced_content
+149,Chem101,Lec3,medium,practice_additional
+149,Chem101,Lec4,mastered,next_lecture / advanced_content
+149,Chem101,Lec5,medium,practice_additional
+150,Math101,Lec1,weak,watch_video + practice_easy
+150,Math101,Lec2,weak,watch_video + practice_easy
+150,Math101,Lec3,mastered,next_lecture / advanced_content
+150,Math101,Lec4,weak,watch_video + practice_easy
+150,Math101,Lec5,medium,practice_additional
+150,Physics101,Lec1,mastered,next_lecture / advanced_content
+150,Physics101,Lec2,weak,watch_video + practice_easy
+150,Physics101,Lec3,mastered,next_lecture / advanced_content
+150,Physics101,Lec4,medium,practice_additional
+150,Physics101,Lec5,weak,watch_video + practice_easy
+150,Chem101,Lec1,weak,watch_video + practice_easy
+150,Chem101,Lec2,weak,watch_video + practice_easy
+150,Chem101,Lec3,medium,practice_additional
+150,Chem101,Lec4,mastered,next_lecture / advanced_content
+150,Chem101,Lec5,mastered,next_lecture / advanced_content
